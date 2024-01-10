@@ -1,0 +1,4 @@
+defaults:
+  - paths: "default_paths.yaml"
+  - network: "network_config.yaml"
+

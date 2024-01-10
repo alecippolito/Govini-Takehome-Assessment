@@ -1,0 +1,2 @@
+path_parquet: "https://s3.amazonaws.com/BUCKET_FOR_FILE_TRANSFER/ml_dataset.parquet"
+path_csv: "ml_dataset.csv"
