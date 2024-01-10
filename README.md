@@ -23,7 +23,7 @@ Since I implemented this with the hydra library, there a way to config this at t
 **python src/main.py parameter_name=value**
 The paramter_name options are as follows: paths.path_csv, network.epochs, netowrk.batch_size, network.learning_rate
 Here is an example of running through the commmand line with the configs being connfigured by assigning as the default values
-**python src/main.py paths.path_csv="new_csv_path.csv" network.epochs=10 network.batch_size=64 network.learning_rate=0.001**
+**python src/main.py paths.path_csv="ml_dataset.csv" network.epochs=10 network.batch_size=64 network.learning_rate=0.001**
 
 The folder structure of this project should be:
 GOVINI TAKEHOME ASSESSMENT
